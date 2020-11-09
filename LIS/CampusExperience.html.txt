@@ -1,0 +1,38 @@
+<!Doctype html>
+
+<html>
+
+<head>
+
+  <title>Lauren Taylor Knutson's Professional</title>
+
+</head>
+
+<body/>
+<nav>
+    <a href="index.html">Home</a>
+    <a href="CampusExperience.html">Campus Experience</a>
+    <a href="ProfessionalExperience.html">Professional Experience</a>
+    <a href="Resume.html">Resume</a>
+  </nav>
+  <hr>
+
+  <h1>Campus Experience</h1>
+
+  <img src="laurenheadshot.jpg" alt="Headshot of Lauren" width=350>
+
+  <h2>Women In Business</h2>
+ 
+ <p> The following are all of the roles I have held during my 5 semesters so far on campus. Women In Business is truly my home and it has helped me grow professionally and personally.</p>
+  <ul>
+    <li>Senior Vice President of Corporate Relations</li>
+    <li>Vice President of Corporate Relations</li>
+    <li>Public Relations Director</li>
+    <li>Banquet Director</li>
+    <li>Mentorship</li>
+  </ul>
+       <p>Feel free to check out Women In Business's website where it showcases our members and more!<a href="https://www.womeninbusinessuw.com/about" target="_blank">Women In Business Page</a></p>
+
+
+</body>
+</html>

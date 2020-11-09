@@ -1,0 +1,154 @@
+body {
+   background-color:#ffdde2;
+   margin:20px 20px 20px 50px;
+}
+
+nav a {
+  padding: 0.25em 1em;
+  text-decoration: none; /* no underline */
+  background-color:white; /* pale bluish white */
+  color: #00000; /* black */
+  border: 2px solid black;
+  border-top-left-radius: 1em 1em; /* rounded corner! */
+  border-top-right-radius: 1em 1em; /* another rounded corner! */
+  border-bottom-left-radius: 1em 1em; 
+  border-bottom-right-radius: 1em 1em;
+}
+
+/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: grey;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: black;
+}
+
+h1{
+  float: left;
+  margin-right: 1.5em;
+}
+
+h1 {
+   font-family:"Times New Roman",Times, serif;
+   text-align:center;
+}
+
+img {float:right;
+  margin-left: 1.5em;
+}
+
+img {padding-left: 10px; 
+     padding-bottom: 20px;
+     padding-right: 100px; 
+     padding-top: 125px;
+}
+
+
+h2 {
+   font-family:Verdana, Helvetica, sans-serif;
+   text-align:left;
+}
+
+h2{
+  float: left;
+  margin-right: 1.5em;
+}
+
+
+p {  padding-bottom: 20px;
+     padding-right: 20px; 
+     padding left: 20px;
+     padding-top: 15px;
+}
+
+p {
+  width: 500px;
+  border: 15px #ffe9ec;
+  padding: 15px;
+  margin: 20px;
+  border: 2px solid white;
+  border-top-left-radius: 1em 1em; /* rounded corner! */
+  border-top-right-radius: 1em 1em; /* another rounded corner! */
+  border-bottom-left-radius: 1em 1em; 
+  border-bottom-right-radius: 1em 1em;
+}
+
+p {
+   font-family:Verdana, Helvetica, sans-serif;
+   text-align: left;
+}
+
+p {
+  float: left;
+  margin-right: 1.5em;
+}
+
+p {background-color:#ffe9ec;}
+
+
+ul {
+   font family:Verdana, Helvetica, sans-seriff;
+   text-algin: left;
+}
+
+ul {
+  float: left;
+  margin-right: 1.5em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+li {
+   font family:Verdana, Helvetica, sans-seriff;
+   text-align: center;
+} 
+
+li {
+  float: left;
+  margin-right: 1.5em;
+}
+
+li {background-color:white;
+}
+
+li {
+  width: 160px;
+  border: 10px #ffe9ec;
+  padding: 10px;
+  margin: 5px;
+  border: 2px solid white;
+  border-top-left-radius: 1em 1em; /* rounded corner! */
+  border-top-right-radius: 1em 1em; /* another rounded corner! */
+  border-bottom-left-radius: 1em 1em; 
+  border-bottom-right-radius: 1em 1em;
+}
+
+li {padding-left: 1px; 
+     padding-bottom: 15px;
+     padding-right: 1px; 
+     padding-top: 15px;
+}
+
+iframe {padding-left: 20px; 
+     padding-bottom: 20px;
+     padding-right: 20px; 
+     padding-top: 20px;
+
+}
+
+
