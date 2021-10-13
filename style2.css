@@ -107,6 +107,7 @@ ul {
 }
 
 ul {
+  width: 600px;
   float: left;
   margin-right: 1.5em;
 }
