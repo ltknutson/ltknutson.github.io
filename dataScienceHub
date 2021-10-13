@@ -1,0 +1,33 @@
+<!Doctype html>
+
+<html>
+
+<head>
+
+  <title>Student Program Assistant at the UW-Madison Data Science Hub</title>
+  <link rel="stylesheet" href="style2.css">
+</head>
+
+<body/>
+
+<nav>
+    <a href="ProfessionalExperience.html">Professional Experience</a>
+  </nav>
+  <hr>
+
+  <h1>Student Program Assistant</h1>
+
+  <img src="dataScienceHub.png" alt="Photo of the University of Wisconsin Madison Data Science Hub's Logo" width=400>
+
+	<p>During my in person Summer 2020 Internship;</p>
+      
+  
+  <ul>
+    <li>Documenting Processes for Future Trainings</li>
+    <li>Creating Bi-weekly Eloqua Newsletters for 500+ Graduates and Professionals</li>
+    <li>Creating Custom Websites per Event Using Github</li>
+    <li>Training in various programming languages for varying tasks</li>
+ </ul>
+ 
+</body>
+</html>
