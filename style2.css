@@ -48,13 +48,7 @@ h1 {
 img {float:right;
 }
 
-img {width: 400px;
-}
-
-img {padding-left: 10px; 
-     padding-bottom: 10px;
-     padding-right: 10px; 
-     padding-top: 10px;
+img {max-width:30%;
 }
 
 img {margin-right:75px;
@@ -70,6 +64,7 @@ h2 {
 h2{
   float: left;
   margin-right: 1.5em;
+  width: 65%;
 }
 
 
@@ -80,7 +75,7 @@ p {  padding-bottom: 20px;
 }
 
 p {
-  width: 400px;
+  width: 65%;
   border: 15px #ffe9ec;
   padding: 1px;
   margin: 20px;
@@ -110,7 +105,7 @@ ul {
 }
 
 ul {
-  width: 400px;
+  width: 65%;
   float: left;
   margin-right: 1.5em;
 }
@@ -129,7 +124,7 @@ li {background-color:white;
 }
 
 li {
-  width: 350px;
+  width: 65%;
   border: 10px #ffe9ec;
   padding: 10px;
   margin: 5px;
